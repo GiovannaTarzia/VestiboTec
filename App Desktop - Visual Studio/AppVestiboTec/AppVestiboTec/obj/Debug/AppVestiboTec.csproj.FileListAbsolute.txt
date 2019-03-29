@@ -1,0 +1,44 @@
+c:\users\gitar_000\documents\visual studio 2013\Projects\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.exe.config
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.exe
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.pdb
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.csprojResolveAssemblyReference.cache
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Classicismo.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Form1.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Fuvest.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Properties.Resources.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Unicamp.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.csproj.GenerateResource.Cache
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.exe
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.pdb
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Romantismo.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.ExerciciosFuvest.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.RomantismoPortugal.resources
+C:\Users\gitar_000\Documents\Visual Studio 2013\Projects\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.RomantismoBrasil.resources
+C:\Users\gitar_000\SkyDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.exe.config
+C:\Users\gitar_000\SkyDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.exe
+C:\Users\gitar_000\SkyDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.pdb
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.exe.config
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.exe
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.pdb
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.csprojResolveAssemblyReference.cache
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Classicismo.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.ExerciciosFuvest.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Form1.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Fuvest.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Properties.Resources.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Romantismo.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.RomantismoBrasil.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.RomantismoPortugal.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Unicamp.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.csproj.GenerateResource.Cache
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.exe
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.pdb
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.RealismoPortugal.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.Modernismo.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.ModernismoPortugal.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.MPrimeiraFase.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.PreModernismo.resources
+C:\Users\Giovanna\OneDrive\Escola\PDTCC\Aplicativo\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.RealismoBrasil.resources
+C:\Users\Giovanna\Documents\TCC\AppVestiboTec\AppVestiboTec\bin\Debug\AppVestiboTec.exe.config
+C:\Users\Giovanna\Documents\TCC\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.exe
+C:\Users\Giovanna\Documents\TCC\AppVestiboTec\AppVestiboTec\obj\Debug\AppVestiboTec.pdb

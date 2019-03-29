@@ -1,0 +1,698 @@
+﻿namespace AppVestiboTec
+{
+    partial class Unicamp
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Unicamp));
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.vestibularToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.fuvestToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.unicampToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.exercíciosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.enemToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.fuvestToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.unicampToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.períodoLiterárioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.classicismoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.romantismoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextoHistóricoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.noBrasilToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.emPortugualToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.realismoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.préModernismoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.modernismoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.pósModernismoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.autoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.luizDeCamõesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.joséDeAlencarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.almeidaGarrettToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.manuelAntônioDeAlmeidaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.machadoDeAssisToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.eçaDeQueirosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.aluísioDeAzevedoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.monteiroLobatoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.jogeAmadoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gracilianoRamosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.carlosDrummondDeAndradeToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.clariceLispectorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.miaCoutoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.guimarãesRosaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sobreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel2 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel3 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel4 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel5 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel6 = new System.Windows.Forms.LinkLabel();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.linkLabel7 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel8 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel9 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel10 = new System.Windows.Forms.LinkLabel();
+            this.linkLabel11 = new System.Windows.Forms.LinkLabel();
+            this.emPortugalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.noBrasilToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.emPortugalToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.noBrasilToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
+            this.primeiraFaseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.segundaFaseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.terceiraFaseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(166, 46);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(108, 29);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "Unicamp";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Transparent;
+            this.label2.Location = new System.Drawing.Point(273, 62);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(80, 13);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Vestibular 2016";
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.BackColor = System.Drawing.Color.Transparent;
+            this.menuStrip1.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.vestibularToolStripMenuItem,
+            this.exercíciosToolStripMenuItem,
+            this.períodoLiterárioToolStripMenuItem,
+            this.sairToolStripMenuItem,
+            this.autoresToolStripMenuItem,
+            this.sobreToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Padding = new System.Windows.Forms.Padding(4, 2, 0, 2);
+            this.menuStrip1.Size = new System.Drawing.Size(495, 27);
+            this.menuStrip1.TabIndex = 4;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // vestibularToolStripMenuItem
+            // 
+            this.vestibularToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.fuvestToolStripMenuItem,
+            this.unicampToolStripMenuItem});
+            this.vestibularToolStripMenuItem.Name = "vestibularToolStripMenuItem";
+            this.vestibularToolStripMenuItem.Size = new System.Drawing.Size(82, 23);
+            this.vestibularToolStripMenuItem.Text = "Vestibular";
+            // 
+            // fuvestToolStripMenuItem
+            // 
+            this.fuvestToolStripMenuItem.Name = "fuvestToolStripMenuItem";
+            this.fuvestToolStripMenuItem.Size = new System.Drawing.Size(182, 24);
+            this.fuvestToolStripMenuItem.Text = "Livros - Fuvest";
+            this.fuvestToolStripMenuItem.Click += new System.EventHandler(this.fuvestToolStripMenuItem_Click);
+            // 
+            // unicampToolStripMenuItem
+            // 
+            this.unicampToolStripMenuItem.Enabled = false;
+            this.unicampToolStripMenuItem.Name = "unicampToolStripMenuItem";
+            this.unicampToolStripMenuItem.Size = new System.Drawing.Size(182, 24);
+            this.unicampToolStripMenuItem.Text = "Livros - Unicamp";
+            // 
+            // exercíciosToolStripMenuItem
+            // 
+            this.exercíciosToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.enemToolStripMenuItem,
+            this.fuvestToolStripMenuItem1,
+            this.unicampToolStripMenuItem1});
+            this.exercíciosToolStripMenuItem.Name = "exercíciosToolStripMenuItem";
+            this.exercíciosToolStripMenuItem.Size = new System.Drawing.Size(78, 23);
+            this.exercíciosToolStripMenuItem.Text = "Exercícios";
+            // 
+            // enemToolStripMenuItem
+            // 
+            this.enemToolStripMenuItem.Name = "enemToolStripMenuItem";
+            this.enemToolStripMenuItem.Size = new System.Drawing.Size(132, 24);
+            this.enemToolStripMenuItem.Text = "Enem ";
+            // 
+            // fuvestToolStripMenuItem1
+            // 
+            this.fuvestToolStripMenuItem1.Name = "fuvestToolStripMenuItem1";
+            this.fuvestToolStripMenuItem1.Size = new System.Drawing.Size(132, 24);
+            this.fuvestToolStripMenuItem1.Text = "Fuvest";
+            // 
+            // unicampToolStripMenuItem1
+            // 
+            this.unicampToolStripMenuItem1.Name = "unicampToolStripMenuItem1";
+            this.unicampToolStripMenuItem1.Size = new System.Drawing.Size(132, 24);
+            this.unicampToolStripMenuItem1.Text = "Unicamp";
+            // 
+            // períodoLiterárioToolStripMenuItem
+            // 
+            this.períodoLiterárioToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.classicismoToolStripMenuItem,
+            this.romantismoToolStripMenuItem,
+            this.realismoToolStripMenuItem,
+            this.préModernismoToolStripMenuItem,
+            this.modernismoToolStripMenuItem,
+            this.pósModernismoToolStripMenuItem});
+            this.períodoLiterárioToolStripMenuItem.Name = "períodoLiterárioToolStripMenuItem";
+            this.períodoLiterárioToolStripMenuItem.Size = new System.Drawing.Size(122, 23);
+            this.períodoLiterárioToolStripMenuItem.Text = "Período Literário";
+            // 
+            // classicismoToolStripMenuItem
+            // 
+            this.classicismoToolStripMenuItem.Name = "classicismoToolStripMenuItem";
+            this.classicismoToolStripMenuItem.Size = new System.Drawing.Size(211, 24);
+            this.classicismoToolStripMenuItem.Text = "Classicismo";
+            this.classicismoToolStripMenuItem.Click += new System.EventHandler(this.classicismoToolStripMenuItem_Click);
+            // 
+            // romantismoToolStripMenuItem
+            // 
+            this.romantismoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.contextoHistóricoToolStripMenuItem,
+            this.emPortugualToolStripMenuItem,
+            this.noBrasilToolStripMenuItem});
+            this.romantismoToolStripMenuItem.Name = "romantismoToolStripMenuItem";
+            this.romantismoToolStripMenuItem.Size = new System.Drawing.Size(211, 24);
+            this.romantismoToolStripMenuItem.Text = "Romantismo";
+            this.romantismoToolStripMenuItem.Click += new System.EventHandler(this.romantismoToolStripMenuItem_Click);
+            // 
+            // contextoHistóricoToolStripMenuItem
+            // 
+            this.contextoHistóricoToolStripMenuItem.Name = "contextoHistóricoToolStripMenuItem";
+            this.contextoHistóricoToolStripMenuItem.Size = new System.Drawing.Size(161, 24);
+            this.contextoHistóricoToolStripMenuItem.Text = "Visão Geral";
+            this.contextoHistóricoToolStripMenuItem.Click += new System.EventHandler(this.contextoHistóricoToolStripMenuItem_Click);
+            // 
+            // noBrasilToolStripMenuItem
+            // 
+            this.noBrasilToolStripMenuItem.Name = "noBrasilToolStripMenuItem";
+            this.noBrasilToolStripMenuItem.Size = new System.Drawing.Size(161, 24);
+            this.noBrasilToolStripMenuItem.Text = "No Brasil";
+            // 
+            // emPortugualToolStripMenuItem
+            // 
+            this.emPortugualToolStripMenuItem.Name = "emPortugualToolStripMenuItem";
+            this.emPortugualToolStripMenuItem.Size = new System.Drawing.Size(161, 24);
+            this.emPortugualToolStripMenuItem.Text = "Em Portugual";
+            // 
+            // realismoToolStripMenuItem
+            // 
+            this.realismoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.emPortugalToolStripMenuItem,
+            this.noBrasilToolStripMenuItem1});
+            this.realismoToolStripMenuItem.Name = "realismoToolStripMenuItem";
+            this.realismoToolStripMenuItem.Size = new System.Drawing.Size(211, 24);
+            this.realismoToolStripMenuItem.Text = "Realismo/Naturalismo";
+            this.realismoToolStripMenuItem.Click += new System.EventHandler(this.realismoToolStripMenuItem_Click);
+            // 
+            // préModernismoToolStripMenuItem
+            // 
+            this.préModernismoToolStripMenuItem.Name = "préModernismoToolStripMenuItem";
+            this.préModernismoToolStripMenuItem.Size = new System.Drawing.Size(211, 24);
+            this.préModernismoToolStripMenuItem.Text = "Pré-Modernismo";
+            // 
+            // modernismoToolStripMenuItem
+            // 
+            this.modernismoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.emPortugalToolStripMenuItem1,
+            this.noBrasilToolStripMenuItem2});
+            this.modernismoToolStripMenuItem.Name = "modernismoToolStripMenuItem";
+            this.modernismoToolStripMenuItem.Size = new System.Drawing.Size(211, 24);
+            this.modernismoToolStripMenuItem.Text = "Modernismo";
+            // 
+            // pósModernismoToolStripMenuItem
+            // 
+            this.pósModernismoToolStripMenuItem.Name = "pósModernismoToolStripMenuItem";
+            this.pósModernismoToolStripMenuItem.Size = new System.Drawing.Size(211, 24);
+            this.pósModernismoToolStripMenuItem.Text = "Pós-Modernismo";
+            // 
+            // sairToolStripMenuItem
+            // 
+            this.sairToolStripMenuItem.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
+            this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
+            this.sairToolStripMenuItem.Size = new System.Drawing.Size(43, 23);
+            this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
+            // 
+            // autoresToolStripMenuItem
+            // 
+            this.autoresToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.luizDeCamõesToolStripMenuItem,
+            this.joséDeAlencarToolStripMenuItem,
+            this.almeidaGarrettToolStripMenuItem,
+            this.manuelAntônioDeAlmeidaToolStripMenuItem,
+            this.machadoDeAssisToolStripMenuItem,
+            this.eçaDeQueirosToolStripMenuItem,
+            this.aluísioDeAzevedoToolStripMenuItem,
+            this.monteiroLobatoToolStripMenuItem,
+            this.jogeAmadoToolStripMenuItem,
+            this.gracilianoRamosToolStripMenuItem,
+            this.carlosDrummondDeAndradeToolStripMenuItem,
+            this.clariceLispectorToolStripMenuItem,
+            this.miaCoutoToolStripMenuItem,
+            this.guimarãesRosaToolStripMenuItem});
+            this.autoresToolStripMenuItem.Name = "autoresToolStripMenuItem";
+            this.autoresToolStripMenuItem.Size = new System.Drawing.Size(69, 23);
+            this.autoresToolStripMenuItem.Text = "Autores";
+            // 
+            // luizDeCamõesToolStripMenuItem
+            // 
+            this.luizDeCamõesToolStripMenuItem.Name = "luizDeCamõesToolStripMenuItem";
+            this.luizDeCamõesToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.luizDeCamõesToolStripMenuItem.Text = "Luiz Vaz de Camões";
+            // 
+            // joséDeAlencarToolStripMenuItem
+            // 
+            this.joséDeAlencarToolStripMenuItem.Name = "joséDeAlencarToolStripMenuItem";
+            this.joséDeAlencarToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.joséDeAlencarToolStripMenuItem.Text = "José de Alencar";
+            // 
+            // almeidaGarrettToolStripMenuItem
+            // 
+            this.almeidaGarrettToolStripMenuItem.Name = "almeidaGarrettToolStripMenuItem";
+            this.almeidaGarrettToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.almeidaGarrettToolStripMenuItem.Text = "Almeida Garrett";
+            // 
+            // manuelAntônioDeAlmeidaToolStripMenuItem
+            // 
+            this.manuelAntônioDeAlmeidaToolStripMenuItem.Name = "manuelAntônioDeAlmeidaToolStripMenuItem";
+            this.manuelAntônioDeAlmeidaToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.manuelAntônioDeAlmeidaToolStripMenuItem.Text = "Manuel Antônio de Almeida";
+            // 
+            // machadoDeAssisToolStripMenuItem
+            // 
+            this.machadoDeAssisToolStripMenuItem.Name = "machadoDeAssisToolStripMenuItem";
+            this.machadoDeAssisToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.machadoDeAssisToolStripMenuItem.Text = "Machado de Assis";
+            // 
+            // eçaDeQueirosToolStripMenuItem
+            // 
+            this.eçaDeQueirosToolStripMenuItem.Name = "eçaDeQueirosToolStripMenuItem";
+            this.eçaDeQueirosToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.eçaDeQueirosToolStripMenuItem.Text = "Eça de Queiros";
+            // 
+            // aluísioDeAzevedoToolStripMenuItem
+            // 
+            this.aluísioDeAzevedoToolStripMenuItem.Name = "aluísioDeAzevedoToolStripMenuItem";
+            this.aluísioDeAzevedoToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.aluísioDeAzevedoToolStripMenuItem.Text = "Aluísio de Azevedo";
+            // 
+            // monteiroLobatoToolStripMenuItem
+            // 
+            this.monteiroLobatoToolStripMenuItem.Name = "monteiroLobatoToolStripMenuItem";
+            this.monteiroLobatoToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.monteiroLobatoToolStripMenuItem.Text = "Monteiro Lobato";
+            // 
+            // jogeAmadoToolStripMenuItem
+            // 
+            this.jogeAmadoToolStripMenuItem.Name = "jogeAmadoToolStripMenuItem";
+            this.jogeAmadoToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.jogeAmadoToolStripMenuItem.Text = "Joge Amado";
+            // 
+            // gracilianoRamosToolStripMenuItem
+            // 
+            this.gracilianoRamosToolStripMenuItem.Name = "gracilianoRamosToolStripMenuItem";
+            this.gracilianoRamosToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.gracilianoRamosToolStripMenuItem.Text = "Graciliano Ramos";
+            // 
+            // carlosDrummondDeAndradeToolStripMenuItem
+            // 
+            this.carlosDrummondDeAndradeToolStripMenuItem.Name = "carlosDrummondDeAndradeToolStripMenuItem";
+            this.carlosDrummondDeAndradeToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.carlosDrummondDeAndradeToolStripMenuItem.Text = "Carlos Drummond de Andrade";
+            // 
+            // clariceLispectorToolStripMenuItem
+            // 
+            this.clariceLispectorToolStripMenuItem.Name = "clariceLispectorToolStripMenuItem";
+            this.clariceLispectorToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.clariceLispectorToolStripMenuItem.Text = "Clarice Lispector";
+            // 
+            // miaCoutoToolStripMenuItem
+            // 
+            this.miaCoutoToolStripMenuItem.Name = "miaCoutoToolStripMenuItem";
+            this.miaCoutoToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.miaCoutoToolStripMenuItem.Text = "Mia Couto";
+            // 
+            // guimarãesRosaToolStripMenuItem
+            // 
+            this.guimarãesRosaToolStripMenuItem.Name = "guimarãesRosaToolStripMenuItem";
+            this.guimarãesRosaToolStripMenuItem.Size = new System.Drawing.Size(266, 24);
+            this.guimarãesRosaToolStripMenuItem.Text = "Guimarães Rosa";
+            // 
+            // sobreToolStripMenuItem
+            // 
+            this.sobreToolStripMenuItem.Name = "sobreToolStripMenuItem";
+            this.sobreToolStripMenuItem.Size = new System.Drawing.Size(56, 23);
+            this.sobreToolStripMenuItem.Text = "Sobre";
+            // 
+            // linkLabel1
+            // 
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel1.Location = new System.Drawing.Point(9, 93);
+            this.linkLabel1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(278, 18);
+            this.linkLabel1.TabIndex = 5;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "Viagens na Minha Terra - Almeida Garrett";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            // 
+            // linkLabel2
+            // 
+            this.linkLabel2.AutoSize = true;
+            this.linkLabel2.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel2.Location = new System.Drawing.Point(9, 122);
+            this.linkLabel2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel2.Name = "linkLabel2";
+            this.linkLabel2.Size = new System.Drawing.Size(142, 18);
+            this.linkLabel2.TabIndex = 6;
+            this.linkLabel2.TabStop = true;
+            this.linkLabel2.Text = "Til - José de Alencar";
+            // 
+            // linkLabel3
+            // 
+            this.linkLabel3.AutoSize = true;
+            this.linkLabel3.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel3.Location = new System.Drawing.Point(9, 153);
+            this.linkLabel3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel3.Name = "linkLabel3";
+            this.linkLabel3.Size = new System.Drawing.Size(384, 18);
+            this.linkLabel3.TabIndex = 7;
+            this.linkLabel3.TabStop = true;
+            this.linkLabel3.Text = "Memórias Póstumas de Brás Cubas - Machado de Assis";
+            // 
+            // linkLabel4
+            // 
+            this.linkLabel4.AutoSize = true;
+            this.linkLabel4.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel4.Location = new System.Drawing.Point(9, 183);
+            this.linkLabel4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel4.Name = "linkLabel4";
+            this.linkLabel4.Size = new System.Drawing.Size(190, 18);
+            this.linkLabel4.TabIndex = 8;
+            this.linkLabel4.TabStop = true;
+            this.linkLabel4.Text = "O Cortiço - Aluísio Azevedo";
+            // 
+            // linkLabel5
+            // 
+            this.linkLabel5.AutoSize = true;
+            this.linkLabel5.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel5.Location = new System.Drawing.Point(9, 214);
+            this.linkLabel5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel5.Name = "linkLabel5";
+            this.linkLabel5.Size = new System.Drawing.Size(225, 18);
+            this.linkLabel5.TabIndex = 9;
+            this.linkLabel5.TabStop = true;
+            this.linkLabel5.Text = "Capitães de Areia - Jorge Amado";
+            // 
+            // linkLabel6
+            // 
+            this.linkLabel6.AutoSize = true;
+            this.linkLabel6.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel6.Location = new System.Drawing.Point(9, 241);
+            this.linkLabel6.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel6.Name = "linkLabel6";
+            this.linkLabel6.Size = new System.Drawing.Size(204, 18);
+            this.linkLabel6.TabIndex = 10;
+            this.linkLabel6.TabStop = true;
+            this.linkLabel6.Text = "Terra Sonambula - Mia Couto";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.BackColor = System.Drawing.Color.Transparent;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(9, 283);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(49, 18);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "Conto";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.Transparent;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(9, 407);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(54, 18);
+            this.label4.TabIndex = 12;
+            this.label4.Text = "Poesia";
+            // 
+            // linkLabel7
+            // 
+            this.linkLabel7.AutoSize = true;
+            this.linkLabel7.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel7.Location = new System.Drawing.Point(9, 302);
+            this.linkLabel7.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel7.Name = "linkLabel7";
+            this.linkLabel7.Size = new System.Drawing.Size(344, 18);
+            this.linkLabel7.TabIndex = 13;
+            this.linkLabel7.TabStop = true;
+            this.linkLabel7.Text = "\"Amor\" - Clarice Lispector (Livro: Laços de Família)";
+            // 
+            // linkLabel8
+            // 
+            this.linkLabel8.AutoSize = true;
+            this.linkLabel8.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel8.Location = new System.Drawing.Point(9, 332);
+            this.linkLabel8.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel8.Name = "linkLabel8";
+            this.linkLabel8.Size = new System.Drawing.Size(491, 18);
+            this.linkLabel8.TabIndex = 14;
+            this.linkLabel8.TabStop = true;
+            this.linkLabel8.Text = "\"A hora e a vez de Augusto Matraga\" - Guimarães Rosa (Livro: Sagarana)";
+            // 
+            // linkLabel9
+            // 
+            this.linkLabel9.AutoSize = true;
+            this.linkLabel9.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel9.Location = new System.Drawing.Point(9, 364);
+            this.linkLabel9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel9.Name = "linkLabel9";
+            this.linkLabel9.Size = new System.Drawing.Size(312, 18);
+            this.linkLabel9.TabIndex = 15;
+            this.linkLabel9.TabStop = true;
+            this.linkLabel9.Text = "\"Negrinha\" - Monteiro Lobato (Livro: Negrinha)";
+            // 
+            // linkLabel10
+            // 
+            this.linkLabel10.AutoSize = true;
+            this.linkLabel10.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel10.Location = new System.Drawing.Point(9, 427);
+            this.linkLabel10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel10.Name = "linkLabel10";
+            this.linkLabel10.Size = new System.Drawing.Size(368, 18);
+            this.linkLabel10.TabIndex = 16;
+            this.linkLabel10.TabStop = true;
+            this.linkLabel10.Text = "Sentimento do Mundo - Carlos Drummond de Andrade";
+            // 
+            // linkLabel11
+            // 
+            this.linkLabel11.AutoSize = true;
+            this.linkLabel11.BackColor = System.Drawing.Color.Transparent;
+            this.linkLabel11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel11.Location = new System.Drawing.Point(9, 454);
+            this.linkLabel11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.linkLabel11.Name = "linkLabel11";
+            this.linkLabel11.Size = new System.Drawing.Size(185, 18);
+            this.linkLabel11.TabIndex = 17;
+            this.linkLabel11.TabStop = true;
+            this.linkLabel11.Text = "Sonetos - Luiz de Camões";
+            // 
+            // emPortugalToolStripMenuItem
+            // 
+            this.emPortugalToolStripMenuItem.Name = "emPortugalToolStripMenuItem";
+            this.emPortugalToolStripMenuItem.Size = new System.Drawing.Size(153, 24);
+            this.emPortugalToolStripMenuItem.Text = "Em Portugal";
+            // 
+            // noBrasilToolStripMenuItem1
+            // 
+            this.noBrasilToolStripMenuItem1.Name = "noBrasilToolStripMenuItem1";
+            this.noBrasilToolStripMenuItem1.Size = new System.Drawing.Size(153, 24);
+            this.noBrasilToolStripMenuItem1.Text = "No Brasil";
+            // 
+            // emPortugalToolStripMenuItem1
+            // 
+            this.emPortugalToolStripMenuItem1.Name = "emPortugalToolStripMenuItem1";
+            this.emPortugalToolStripMenuItem1.Size = new System.Drawing.Size(153, 24);
+            this.emPortugalToolStripMenuItem1.Text = "Em Portugal";
+            // 
+            // noBrasilToolStripMenuItem2
+            // 
+            this.noBrasilToolStripMenuItem2.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.primeiraFaseToolStripMenuItem,
+            this.segundaFaseToolStripMenuItem,
+            this.terceiraFaseToolStripMenuItem});
+            this.noBrasilToolStripMenuItem2.Name = "noBrasilToolStripMenuItem2";
+            this.noBrasilToolStripMenuItem2.Size = new System.Drawing.Size(153, 24);
+            this.noBrasilToolStripMenuItem2.Text = "No Brasil";
+            // 
+            // primeiraFaseToolStripMenuItem
+            // 
+            this.primeiraFaseToolStripMenuItem.Name = "primeiraFaseToolStripMenuItem";
+            this.primeiraFaseToolStripMenuItem.Size = new System.Drawing.Size(162, 24);
+            this.primeiraFaseToolStripMenuItem.Text = "Primeira Fase";
+            // 
+            // segundaFaseToolStripMenuItem
+            // 
+            this.segundaFaseToolStripMenuItem.Name = "segundaFaseToolStripMenuItem";
+            this.segundaFaseToolStripMenuItem.Size = new System.Drawing.Size(162, 24);
+            this.segundaFaseToolStripMenuItem.Text = "Segunda Fase";
+            // 
+            // terceiraFaseToolStripMenuItem
+            // 
+            this.terceiraFaseToolStripMenuItem.Name = "terceiraFaseToolStripMenuItem";
+            this.terceiraFaseToolStripMenuItem.Size = new System.Drawing.Size(162, 24);
+            this.terceiraFaseToolStripMenuItem.Text = "Terceira Fase";
+            // 
+            // Unicamp
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(495, 495);
+            this.Controls.Add(this.linkLabel11);
+            this.Controls.Add(this.linkLabel10);
+            this.Controls.Add(this.linkLabel9);
+            this.Controls.Add(this.linkLabel8);
+            this.Controls.Add(this.linkLabel7);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.linkLabel6);
+            this.Controls.Add(this.linkLabel5);
+            this.Controls.Add(this.linkLabel4);
+            this.Controls.Add(this.linkLabel3);
+            this.Controls.Add(this.linkLabel2);
+            this.Controls.Add(this.linkLabel1);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MainMenuStrip = this.menuStrip1;
+            this.Margin = new System.Windows.Forms.Padding(2);
+            this.MaximizeBox = false;
+            this.Name = "Unicamp";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Unicamp";
+            this.Load += new System.EventHandler(this.Unicamp_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem vestibularToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem fuvestToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem unicampToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem exercíciosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem períodoLiterárioToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem classicismoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem romantismoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem realismoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem préModernismoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem modernismoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem pósModernismoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sobreToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sairToolStripMenuItem;
+        private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.LinkLabel linkLabel2;
+        private System.Windows.Forms.LinkLabel linkLabel3;
+        private System.Windows.Forms.LinkLabel linkLabel4;
+        private System.Windows.Forms.LinkLabel linkLabel5;
+        private System.Windows.Forms.LinkLabel linkLabel6;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.LinkLabel linkLabel7;
+        private System.Windows.Forms.LinkLabel linkLabel8;
+        private System.Windows.Forms.LinkLabel linkLabel9;
+        private System.Windows.Forms.LinkLabel linkLabel10;
+        private System.Windows.Forms.LinkLabel linkLabel11;
+        private System.Windows.Forms.ToolStripMenuItem enemToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem fuvestToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem unicampToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem autoresToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem luizDeCamõesToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem joséDeAlencarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem almeidaGarrettToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem manuelAntônioDeAlmeidaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem machadoDeAssisToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem eçaDeQueirosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem aluísioDeAzevedoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem monteiroLobatoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem jogeAmadoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem gracilianoRamosToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem carlosDrummondDeAndradeToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem clariceLispectorToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem miaCoutoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem guimarãesRosaToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem noBrasilToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem emPortugualToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem contextoHistóricoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem emPortugalToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem noBrasilToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem emPortugalToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem noBrasilToolStripMenuItem2;
+        private System.Windows.Forms.ToolStripMenuItem primeiraFaseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem segundaFaseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem terceiraFaseToolStripMenuItem;
+    }
+}

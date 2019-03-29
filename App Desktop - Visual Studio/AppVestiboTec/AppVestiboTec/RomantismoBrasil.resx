@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label3.Text" xml:space="preserve">
+    <value>   No Brasil, o momento histórico em que ocorre o Romantismo tem que ser visto a partir das últimas produções árcades, caracterizadas pela satírica política de Gonzaga e Silva Alvarenga, bem como as idéias de autonomia comuns naquela época. Em 1808, com a chegada da corte, o Rio de Janeiro passa por um processo de urbanização, tornando-se um campo propício à divulgação das novas influências européias; a Colônia caminhava no rumo da independência.  
+   Após 1822, cresce no Brasil independente o sentimento de nacionalismo, busca-se o passado histórico, exalta-se a natureza da pátria; na realidade, características já cultivadas na Europa e que se encaixavam perfeitamente à necessidade brasileira de ofuscar profundas crises sociais, financeiras e econômicas. De 1823 a 1831, o Brasil viveu um período conturbado como reflexo do autoritarismo de D. Pedro I: a dissolução da Assembléia Constituinte ; a Constituição outorgada; a Confederação do Equador; a luta pelo trono português contra seu irmão D. Miguel; a acusação de Ter mandado assassinar Líbero Badaró e, finalmente, a abdicação. Seguese o período regencial e a maioridade prematura de Pedro II. É neste ambiente confuso e inseguro que surge o Romantismo brasileiro, carregado de lusofobia e, principalmente, de nacionalismo. </value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>   Um dos fatos mais importantes do Romantismo foi a criação de um novo público, uma vez que a literatura torna-se mais popular, o que não acontecia com os estilos de época de características clássicas. Surge o romance , forma mais acessível de manifestação literária; o teatro ganha novo impulso, abandonando as formas clássicas. Com a formação dos primeiros cursos universitários em 1827 e com o liberalismo burguês, dois novos elementos da sociedade brasileira representam um mercado consumidor a ser atingido: o estudante e mulher. Com a vinda da família real, a imprensa passa a existir no Brasil e, com ela, os folhetins, que desempenharam importante papel no desenvolvimento no romance romântico.  
+   No prefácio de Suspiros poéticos e saudades, Gonçalves de Magalhães nos dá uma ótima visão do que era o romantismo para um autor romântico:  “É um livro de poesias escritas segundo as impressões dos lugares; ora assentado entre as ruínas da antiga Roma, meditando sobre a sorte dos impérios;  ora no cimo dos Alpes, a imaginação vagando no infinito como um átomo no espaço; ora na gótica catedral, admirando a grandeza de Deus, e os prodígios do cristianismo; ora entre os ciprestes que espalham sua sombra sobre os túmulos; ora enfim refletindo sobre a sorte da pátria, sobre as paixões dos homens, sobre o nada da vida. Poesias d’alma e do coração, e que só pela alma e pelo coração devem ser julgadas. Quanto à forma, isto é, a construção, por assim dizer, material das estrofes, nenhuma ordem seguimos; exprimindo as idéias como elas se apresentaram, para não destruir o acento da inspiração; além de que, a igualdade de versos, a regularidade das rimas, e a simetria das estrofes produz uma tal monotonia, que jamais podem agradar.”   
+   Realmente, Gonçalves de Magalhães define o Romantismo e suas características básicas sob dois aspectos: o de conteúdo e o de forma.     
+   Quanto ao conteúdo, os românticos cultivavam o nacionalismo , que se manifestava na exaltação da natureza da pátria, no retorno ao passado histórico e na criação do herói nacional, no caso brasileiro, o índio  (o nosso cavaleiro medieval). Da exaltação do passado histórico vem o culto à Idade Média, que, além de representar as glórias e tradições do passado, também assume o papel de negar os valores da Antigüidade Clássica. Da mesma forma, a natureza ora é a extensão da pátria ora é um prolongamento do próprio poeta e seu estado emocional, um refúgio à vida atribulada dos centros urbanos do século XIX. 
+   Outra característica marcante no romantismo e verdadeiro “cartão de visita” de toda a escola foi o sentimentalismo , a valorização dos sentimentos, das emoções pessoais: é o mundo interior que conta, o subjetivismo . e à medida que se volta para o eu, para o individualismo, o pessoalismo, perde-se a consciência do todo, do coletivo, do social. A constante valorização do eu  gera o egocentrismo ; os poetas românticos se colocavam como o centro do universo. É evidente que daí surge um choque da realidade e o seu mundo. A derrota inevitável do eu leva a um estado de frustração e tédio. Daí as seguidas e múltiplas fugas da realidade : o álcool, o ópio, as “casa de aluguel” (prostíbulos), a saudade da infância, a idealização da sociedade, do amor e da mulher. No entanto, essa fugas tem ida e volta, exceção feita à maior de todas as fugas românticas: a morte.    
+   Já ao final do Romantismo brasileiro, a partir de 1860, as transformações econômicas, políticas e sociais levam a uma literatura mais próxima da realidade; a poesia reflete as grandes agitações, como a luta abolicionista, a Guerra do Paraguai, o ideal de República. É a decadência do regime monárquico e o aparecimento da poesia social  de Castro Alves. No fundo, uma transição para o realismo.  
+   Quanto ao aspecto formal, a literatura romântica se apresenta totalmente desvinculada dos padrões e normas estéticas do Classicismo. O verso livre , sem métrica e estrofação, e o verso branco , sem rima, caracterizam a poesia romântica.</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>   Percebe-se nitidamente uma evolução no comportamento dos autores românticos; a comparação entre os primeiros e os últimos representantes dessa escola revela traços peculiares a cada fase, mas discrepantes entre si. No caso brasileiro, por exemplo, há uma distância considerável entre a poesia de Gonçalves Dias e a Castro Alves. Daí a necessidade de dividir o Romantismo em fases ou gerações. Assim é que no Romantismo brasileiro podemos reconhecer três gerações :  
+
+PRIMEIRA GERAÇÃO – geração nacionalista ou indianista  
+   Marcada pela exaltação da natureza, volta ao passado histórico, medievalismo, criação do herói nacional na figura do índio, de onde surgiu a denominação de geração indianista. O sentimentalismo  e a religiosidade são outras características presentes. Entre os principais autores podemos destacar Gonçalves Dias, Gonçalves de Magalhães e Araújo Porto Alegre.  
+
+SEGUNDA GERAÇÃO – Geração do “Mal do Século”   
+   Fortemente influenciada pela poesia de Lord Byron e Musset, é chamada, inclusive, de geração byroniana. Impregnada de egocentrismo, negativismo boêmio, pessimismo, dúvida, desilusão adolescente e tédio constante – característicos do ultra-romantismo, o verdadeiro “mal do século”- seu tema preferido é a fuga da realidade, que se manifesta na idealização da infância, nas virgens sonhadas e na exaltação da morte. Os principais poetas dessa geração foram Álvares de Azevedo, Casimiro de Abreu, Junqueira Freire e Fagundes Varela.  
+
+TERCEIRA GERAÇÃO – Geração Condoreira  
+   Caracterizada pela poesia social e libertária, reflete as lutas internas da Segunda metade do reinado de D. Pedro II. Essa geração sofreu intensamente a influencia de Victor Hugo e de sua poesia político-social, daí ser conhecida como geração hugoana. O termo condoreirismo é conseqüência do símbolo de liberdade adotado pelos jovens românticos : o condor, águia que habita o alto da cordilheira dos Andes. Seu principal representante foi Castro Alves, seguido por Tobias Barreto e Sousândrade.   </value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>ROMANCE URBANO  
+    É o que desenvolve tema ligado à vida social, principalmente do Rio de Janeiro. A variedade dos tipos humanos, os problemas sociais e morais decorrentes do desenvolvimento da cidade, tudo serviu de fonte para os nossos romancistas, dentre os quais se destacam:  José de Alencar (Senhora ; Lucíola), Joaquim Manuel de Macedo (A Moreninha; O Moço Loiro) e Manuel Antônio de Almeida (Memórias de um sargento de milícias).     
+
+ROMANCE SERTANEJO OU REGIONALISTA  
+   Atração pelo pitoresco e o desejo de explorar e investigar o Brasil do interior, fizeram o autor romântico se interessar pela vida e hábitos das populações que viviam distantes das cidades. Abriam-se assim, para o romantismo, o campo fecundo do romance sertanejo, que até hoje continua a fornecer matéria a nossa literatura. Nessa linha, destacam-se José de Alencar, Taunay (Inocência) e Bernardo Guimarães (A escrava Isaura; O Seminarista).  
+
+ROMANCE HISTÓRICO
+   Foi um dos principais meios encontrados pelos românticos para a reinterpretação nacionalista de fatos e personagens da  nossa história, numa revalorização e idealização de nosso passado. Nessa linha, os autores mais importantes são: José de Alencar (O Guarani; As Minas de Prata; A guerra dos Mascates), Bernardo Guimarães (Lendas e romances; histórias e tradições da província de Minas Gerais) e Franklin Távora (O Matuto; Lourenço).  
+
+ROMANCE INDIANISTA  
+   Ainda na perspectiva de valorização de nossas origens, surge o romance indianista, tendo encontrado sua melhor realização nas obras de José de Alencar, que idealizou a figura do índio, exaltando-lhe a nobreza e valentia. (Ubirajara; Iracema; O Guarani).  
+   O trecho abaixo é um fragmento do capítulo IV de O guarani, em que Alencar descreve fisicamente Peri.  
+   A luta “Quando a cavalgada chegou à margem da clareira, aí se passava uma cena curiosa. Em pé, no meio do espaço que formava a grande abóbora das árvores, encostado a um velho tronco decepado pelo raio, via-se um índio na flor da idade. Uma simples túnica de algodão, a que os indígenas chamavam aimará, apertada à cintura por uma faixa de penas escarlates, caia-lhe dos ombros até ao meio da perna, e desenhava o talhe delgado e esbelto como um junco selvagem. Sobre a alvura diáfana do algodão, a sua pele, cor de cobre, brilhava como reflexos dourados, os cabelos pretos cortados rentes, a tez lisa, os olhos grandes com os cantos exteriores erguidos para a fronte, a pupila negra, móbil cintilante, a boca forte, mas bem modelada e guarnecida de dentes alvos, davam ao rosto um pouco oval a beleza inculta da graça, da força e da inteligência. Tinha a cabeça cingida por uma fita de couro, à qual se prendiam do lado esquerdo duas plumas matizadas, que descrevendo uma longa espiral, vinham roçar com as pontas negras o pescoço flexível. Era de alta estatura; tinha as mãos delicadas; a perna ágil e nervosa, ornada com uma axorca de frutos amarelos, apoiava-se sobre um pé pequeno, mas firme no andar e veloz na corrida”. </value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>   O romantismo se inicia no Brasil 1836, quando Gonçalves de Magalhães publica na França a Niterói – Revista Brasiliense, e no mesmo ano lança um livro de poesias românticas intitulado Suspiros poéticos e saudades.   
+   Em 1822, D. Pedro I concretiza um movimento que se fazia sentir, de forma mais imediata, desde 1808: a independência do Brasil. A partir desse momento, o novo país necessita inserir-se no modelo moderno, acompanhando as nações independentes da Europa e América. A imagem do português conquistador deveria ser varrida; há a necessidade de auto afirmação da pátria que se formava. O ciclo da mineração havia dado condições para que as famílias mais abastadas mandassem seus filhos à Europa, em particular França e Inglaterra, onde buscam soluções para os problemas brasileiros, apesar de não possuir o Brasil a mesma formação social dos países industrializados da Europa, representada pelo binômio burguesia/ proletariado. A estrutura social brasileira ainda era marcada pelo binômio aristocracia/ escravo; o “ser burguês” era mais um estado de espírito, norma de comportamento, do que uma posição econômica e social.  
+   É nesse contexto que encontramos Gonçalves de Magalhães viajando pela Europa. Em 1836, vivendo o momento francês, funda a revista Niterói , da qual circularam apenas dois números, em paris. Nela, publica o “Ensaio sobre a história da literatura brasileira”, considerado o nosso primeiro manifesto romântico: 
+   “Não, oh!  Brasil! No meio do geral merecimento tu não deves ficar imóvel e tranqüilo, como o colono sem ambição e sem esperança. O germe da civilização, depositado em seu seio pela Europa, não tem dado ainda todos os frutos que deveria dar, vícios radicais têm tolhido seu desenvolvimento. Tu afastaste do teu colo a mão estranha que te sufocava, respira livremente, respira e cultiva as ciências, as artes, as letras as indústrias e combate tudo o que entrevá-las pode.”  
+   O ano de 1881 é considerado marco final do romantismo, quando são lançados os primeiros romances de tendência naturalista e realista (O mulato, de Aluísio Azevedo, e Memórias de Brás Cubas , de Machado de Assis), embora desde 1870 já ocorressem manifestações do pensamento realista na Escola de Recife, em movimento liderado por Tobias Barreto.  </value>
+  </data>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+</root>
